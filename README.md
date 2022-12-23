@@ -1,5 +1,10 @@
 # EDA-Global-Terrorism-Dataset
 This is the EDA project of the Global Terrorism Dataset where it contains the records from 1970 to 2017. This dataset is maintained by University of Maryland. It has Global terrorism record more than 180K This EDA project has explore the Global Terrorism Dataset as much as possible. 
+## Objective Of EDA:
+* To Perform Exploratory Data Analysis on the Global Terrorism Datasets
+* Find the hot zone of Terrorism
+* Security issue raised by EDA
+* Data-Driven Solution 
 
 ### Steps involved in this project:
 
@@ -17,7 +22,7 @@ This is the EDA project of the Global Terrorism Dataset where it contains the re
 
 
 ## Story telling through Visualization: 
-We hacve used multiple visualization based on the need of the special charts to discover the pattern and trends. We have used heatmap, bar graph with single axis and with twin axis, single line graph and multiple line graph, Pie Chart, Area Graph, pair plot and so on.
+We have done ultiple manupulaiton and done multiple visualization based on the need of the special charts to discover the pattern and trends. We have used heatmap, bar graph with single axis and with twin axis, single line graph and multiple line graph, Pie Chart, Area Graph, pair plot and so on.
 ## Challenges faced
 * Handling huge dataset
 
@@ -64,7 +69,7 @@ The withdrawn conclusion are :
 15. Total number of Terrorist groups is  3537
 
 
-
+## We Have Sucessfully Acheive Our Objective
 # Thank you 
  
  
